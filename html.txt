@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Khem Raj Rai - Portfolio</title>
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #121212; color: #ffffff; margin: 0; padding: 0; text-align: center;">
+
+    <!-- Header Section -->
+    <header style="background: #1e1e1e; padding: 50px;">
+        <h1>Khem Raj Rai</h1>
+        <p>Civil Engineer | Surveyor | Project Manager</p>
+    </header>
+
+    <!-- Navigation Menu -->
+    <nav style="background: #292929; padding: 15px;">
+        <a href="#about" style="color: #ffffff; text-decoration: none; margin: 15px;">About</a>
+        <a href="#skills" style="color: #ffffff; text-decoration: none; margin: 15px;">Skills</a>
+        <a href="#experience" style="color: #ffffff; text-decoration: none; margin: 15px;">Experience</a>
+        <a href="#projects" style="color: #ffffff; text-decoration: none; margin: 15px;">Projects</a>
+        <a href="#contact" style="color: #ffffff; text-decoration: none; margin: 15px;">Contact</a>
+    </nav>
+
+    <!-- About Section -->
+    <section id="about" style="padding: 50px;">
+        <h2>About Me</h2>
+        <p>Dedicated and detail-oriented Civil Engineer with 3+ years of experience in building construction and surveying.</p>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills" style="padding: 50px; background: #1e1e1e;">
+        <h2>Technical Skills</h2>
+        <ul style="list-style: none; padding: 0;">
+            <li>✅ AutoCAD</li>
+            <li>✅ QGIS</li>
+            <li>✅ SketchUp</li>
+            <li>✅ SW DTM</li>
+        </ul>
+    </section>
+
+    <!-- Experience Section -->
+    <section id="experience" style="padding: 50px;">
+        <h2>Professional Experience</h2>
+        <h3>Site Engineer - SRP Group Pvt. Ltd. (2022-2024)</h3>
+        <p>Supervised building construction projects, prepared running bills, and coordinated with engineers.</p>
+
+        <h3>Surveyor - SRP Group Pvt. Ltd. (2021-2022)</h3>
+        <p>Conducted road alignment surveys, topographical surveys, and building layout planning.</p>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" style="padding: 50px; background: #1e1e1e;">
+        <h2>Projects</h2>
+        <p>Coming Soon...</p>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" style="padding: 50px;">
+        <h2>Contact Me</h2>
+        <p>Email: <a href="mailto:khemrajkhalingrai@gmail.com" style="color: #00bcd4;">khemrajkhalingrai@gmail.com</a></p>
+        <p>Phone: 9862833663</p>
+    </section>
+
+    <!-- Footer -->
+    <footer style="background: #1e1e1e; padding: 20px;">
+        <p>© 2025 Khem Raj Rai | All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
